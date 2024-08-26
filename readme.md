@@ -18,10 +18,6 @@ This project is a Flask-based web application that integrates OpenAI’s API to 
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
 6. [Endpoints](#endpoints)
-7. [Functionality Walkthrough](#functionality-walkthrough)
-8. [Troubleshooting](#troubleshooting)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Requirements
 
